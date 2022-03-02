@@ -1,4 +1,4 @@
-from shopping_cart import Product, ShoppingCart
+from step1_shopping_cart import Product, ShoppingCart
 
 def main():  
     cart = ShoppingCart()

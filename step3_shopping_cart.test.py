@@ -1,4 +1,3 @@
-from math import prod
 from step3_shopping_cart import Product, ShoppingCart
 
 def test_requirements():
